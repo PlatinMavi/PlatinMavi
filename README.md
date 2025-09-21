@@ -1,8 +1,8 @@
 ## Hi there 👋
 I am Alper, a developer for about 4 years. I am a fresman at Bilkent University majoring in CS. Some of my hand-picked projects include:
 <br/>
-<br/>nuterine cancer detection using ai : analyzing blood samples and detecting the cancer
-<br/>nmangabridge : fully autonomus webcrawler / manga reader
+<br/>uterine cancer detection using ai : analyzing blood samples and detecting the cancer
+<br/>mangabridge : fully autonomus webcrawler / manga reader
 <br/>Bacbone : A python library on development for web scraping with fetures such as tab swap and undetectation
 <br/>GTA Portfolio: gta loading screen styled portfolio
 <br/>And many more...
